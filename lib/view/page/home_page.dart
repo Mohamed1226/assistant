@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
               ClipPath(
                 clipper: MyClipper(),
                 child: Container(
-                  height: size.height * 0.3,
+                  height: size.height * 0.29,
                   decoration: BoxDecoration(color: Colors.deepPurple),
                 ),
               ),
